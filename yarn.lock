@@ -253,9 +253,9 @@ three@^0.145.0:
   integrity sha512-EKoHQEtEJ4CB6b2BGMBgLZrfwLjXcSUfoI/MiIXUuRpeYsfK5aPWbYhdtIVWOH+x6X0TouldHKHBuc/LAiFzAw==
 
 tweakpane@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/tweakpane/-/tweakpane-3.1.0.tgz#3ecaecf09c6234e27d0d8f101e16128b65fecc86"
-  integrity sha512-PGAp/LPQdHwzL7/iAW4lV1p9iPQTti7YMjMWO48CoYjvZRS59RmgQnhEGzKzqST1JnmOYmQUjTe8bdhlZRJs5A==
+  version "3.1.10"
+  resolved "https://registry.yarnpkg.com/tweakpane/-/tweakpane-3.1.10.tgz#d2e11a3ee668017f7572ce53417f06eed41f5ab8"
+  integrity sha512-rqwnl/pUa7+inhI2E9ayGTqqP0EPOOn/wVvSWjZsRbZUItzNShny7pzwL3hVlaN4m9t/aZhsP0aFQ9U5VVR2VQ==
 
 vite-plugin-glsl@^0.5.1:
   version "0.5.1"
