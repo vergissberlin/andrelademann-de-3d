@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "vite": "^3.1.7",
-    "vite-plugin-glsl": "^0.5.1"
+    "vite-plugin-glsl": "^1.0.0"
   },
   "dependencies": {
     "cannon-es": "^0.20.0",
